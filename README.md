@@ -41,3 +41,5 @@ O(n*log(n))
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] example binary tree
 
+![binary-search-tree](https://user-images.githubusercontent.com/105597814/179677971-4dd7bc86-145f-4049-9529-a2f6278a7430.png)
+
